@@ -1,4 +1,4 @@
-# synfo - Quick Summaries of Local Machine Specs.
+# synfo - Summaries of Local Machine Specs
 
 This system utility tool will be very useful for IT personnel and other enthusiasts.  It provides a quick and easy way to see basic system information like CPU, RAM, swap & hard drive utilization.  Very handy when having access to a graphical user interface is just not possible.
 
